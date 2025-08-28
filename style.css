@@ -1,6 +1,6 @@
 body{
     background-color: blue;
-    color: black;
+    color: aqua;
     display:flex;
 justify-content: center;
 align-items: center;
@@ -10,5 +10,9 @@ margin: 0;
 }
 
 button{
+   
+   background-color: blue;
+   color: aqua;
+font-family: "Bai Jamjuree", sans-serif;
 
 }
